@@ -11,3 +11,5 @@
 - 2023-12-03  Worked for 3 hours.
 - faced some problem when coding
 - got lost in all different elements to use
+
+-2023-12-06   Worked for 3 hours.
