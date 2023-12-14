@@ -9,7 +9,8 @@
 - 2023-12-03  Worked for 3 hours.
 - faced some problem when placing different codes in the second page 
 - got lost in all different elements to use for different functions in the website.
-- 2023-12-06  Worked for 4 hours.
-- 2023-12-10  worked for 4 hours
--2023-12-11  worked for 5 hours
-.2023-12-12  worked for 5 hours
+- 2023-12-06  Worked for 2 hours.
+- 2023-12-10  worked for 2 hours.
+- 2023-12-12  worked for 2 hours.
+- 2023-12-13  worked for 6 hours.
+- 
