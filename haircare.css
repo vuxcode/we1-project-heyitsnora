@@ -1,0 +1,64 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins',sans-serif; 
+}
+
+header{
+    position: fixed;
+    background: #c3ad95;
+    padding: 20px;
+    width: 100%;
+    height: 50px;
+}
+
+.left_area h3{
+    color: #914D64;
+    margin: 0;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.left_area span{
+    color:  #ae7b8c;
+}
+
+header ul{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
+header ul li{
+    list-style: none;
+    margin-left: 30px;
+}
+
+header ul li a{
+    text-decoration: none;
+    padding: 5px 15px;
+    color: #914D64;
+    border-radius: 30px;
+    font-size: 110%;
+    font-weight: 700;
+    transition: 0.4s;
+}
+
+header ul li a:hover, 
+header ul li a.active{
+    background: #F5EEF2;
+    color: #914D64;
+}
+
+.main_image{
+    min-height: 100vh;
+    background: url(haircare.jpeg) no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#check{
+    display: none;
+}
