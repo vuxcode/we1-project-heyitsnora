@@ -22,7 +22,7 @@ header{
 }
 
 .left_area span{
-    color: #ae7b8c;
+    color:  #ae7b8c;
 }
 
 header ul{
@@ -53,9 +53,8 @@ header ul li a.active{
 }
 
 .main_image{
-    margin-left: 250px;
     min-height: 100vh;
-    background: url(pink.png) no-repeat;
+    background: url(makeup.jpg) no-repeat;
     background-position: center;
     background-size: cover;
 }
