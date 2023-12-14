@@ -7,7 +7,7 @@
 
 header{
     position: fixed;
-    background: #E7CCB0;
+    background: #c3ad95;
     padding: 20px;
     width: 100%;
     height: 50px;
@@ -22,7 +22,7 @@ header{
 }
 
 .left_area span{
-    color:  #C98DA1;
+    color: #ae7b8c;
 }
 
 header ul{
