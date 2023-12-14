@@ -54,7 +54,7 @@ header ul li a.active{
 
 .main_image{
     min-height: 100vh;
-    background: url(haircare.jpeg) no-repeat;
+    background: url(#) no-repeat;
     background-position: center;
     background-size: cover;
 }
